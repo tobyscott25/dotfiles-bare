@@ -1,0 +1,19 @@
+[env]
+TERM = "alacritty"
+
+[window]
+padding.x = 5
+padding.y = 5
+
+# opacity = 0.8
+# blur = true
+
+option_as_alt = "Both"
+
+[font]
+normal.family = "MesloLGS Nerd Font Mono"
+normal.style = "Regular"
+# size = 14
+# offset.x = 1
+# offset.y = 1
+
